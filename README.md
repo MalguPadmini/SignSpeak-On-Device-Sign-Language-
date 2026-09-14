@@ -108,7 +108,7 @@ SignSpeak/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SignSpeak.git
+git clone https://github.com/MalguPadmini/SignSpeak-On-Device-Sign-Language-.git
 cd SignSpeak
 ```
 
@@ -235,7 +235,7 @@ The current implementation is primarily intended as a research and development p
 
 ## License
 
-This project is intended for educational and research purposes.
+This project is intended for educational and research purposes.by me.
 
 ## Author
 
